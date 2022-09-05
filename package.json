@@ -2,7 +2,24 @@
   "name": "oxbat-dark",
   "displayName": "Oxbat Dark",
   "description": "Dark, highly contrasted VS Code theme based on ancient Oxbat things that have never happened",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "EmilBabayan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Emil-babayan/oxbat-dark"
+  },
+  "keywords": [
+    "theme",
+    "vscode theme",
+    "vs code theme",
+    "dark theme",
+    "emil babayan",
+    "emil",
+    "babayan",
+    "dark contrast theme",
+    "oxbat theme",
+    "oxbat"
+  ],
   "engines": {
     "vscode": "^1.71.0"
   },
