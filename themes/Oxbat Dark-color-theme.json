@@ -791,8 +791,7 @@
 				"meta.function.expression.js storage.type.function.js",
 				"keyword.operator.comparison.js",
 				"keyword.operator.relational.js",
-				"support.constant.media.css",
-				"meta.jsx.children.js, variable.parameter"
+				"support.constant.media.css"
 			],
 			"settings": {
 				"foreground": "#C7DD00"
@@ -977,7 +976,6 @@
 				"entity.other.attribute-name.pseudo-class.css",
 				"entity.other.attribute-name.pseudo-element.css",
 				"punctuation.terminator.rule.css",
-				"punctuation.terminator.rule.scss",
 				"variable.other.object",
 				"variable.other.property.js",
 				"variable.object.property.js",
@@ -1043,7 +1041,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#79FFC1"
+				"foreground": "#98FED0"
 			}
 		},
 		{
