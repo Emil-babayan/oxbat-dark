@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "oxbat-dark" extension will be documented in this file.
+There will be no changes :)
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
