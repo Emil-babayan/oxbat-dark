@@ -2,9 +2,4 @@
 
 There will be no changes :)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
-
+Check [Github Repo](https://github.com/Emil-babayan/oxbat-dark/) of Oxbat Dark for basically nothing :)
