@@ -1540,17 +1540,10 @@
 		}
 	  },
 	  {		
-		"scope": "keyword.control.loop.js, keyword.control.switch.js, keyword.control.default.js",
+		"scope": "keyword.control.loop.js, keyword.control.switch.js, keyword.control.default.js, meta.property-value.css",
 		"settings": {
-		  "foreground": "#9dc7ff",
+		  "foreground": "#f7ff9d",
 		  "fontStyle":"italic"
-		}
-	  },
-	  {		
-		"scope": "meta.property-value.css",
-		"settings": {
-		  "foreground": "#9dc7ff"
-		
 		}
 	  },
 	  {		
@@ -1580,7 +1573,7 @@
 	  "selection.background": "#5dd75f4a",
 	  "scrollbar.shadow": "#00000000",
 	  "activityBar.foreground": "#1ee647",
-	  "activityBar.background": "#020a13",
+	  "activityBar.background": "#0c151f",
 	  "activityBar.inactiveForeground": "#1ee64736",
 	  "activityBarBadge.foreground": "#ffffff",
 	  "activityBarBadge.background": "#17862df9",
@@ -1832,6 +1825,6 @@
 	  "debugExceptionWidget.background": "#020a13d9",
 	  "debugExceptionWidget.border": "#474747",
 	  "editorUnnecessaryCode.border": "#0000",
-      "editorUnnecessaryCode.opacity": "#000000a0"	   
+      "editorUnnecessaryCode.opacity": "#000000b1"	   
 	}
   }
