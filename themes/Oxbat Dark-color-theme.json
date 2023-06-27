@@ -46,7 +46,7 @@
       }
     },
     {
-      "scope": "variable.other.constant.object.js, variable.object.property.tsx, variable.other.object.tsx, variable.other.constant.js.jsx, variable.other.object.js.jsx",
+      "scope": "variable.object.property.tsx, variable.other.object.tsx",
       "settings": {
         "foreground": "#e4d9af"
       }
@@ -283,6 +283,12 @@
       "settings": {
         "foreground": "#fff",
         "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "variable.other.constant.object.js, variable.other.constant.js.jsx",
+      "settings": {
+        "foreground": "#c3cbfa"        
       }
     },
     {
