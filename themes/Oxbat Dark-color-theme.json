@@ -86,7 +86,7 @@
     },
 
     {
-      "scope": "invalid.illegal, invalid.unimplemented, invalid.illegal.bad-ampersand.html, invalid.illegal.no-longer-supported.html, invalid.broken, invalid.deprecated",
+      "scope": "invalid.illegal, invalid.unimplemented, invalid.illegal.bad-ampersand.html, invalid.illegal.no-longer-supported.html, invalid.broken, invalid.deprecated, meta.tag.inline.small.start.html entity.name.tag, meta.tag.inline.small.end.html entity.name.tag",
       "settings": {
         "foreground": "#f00"
       }
@@ -286,9 +286,9 @@
       }
     },
     {
-      "scope": "variable.other.constant.object.js, variable.other.constant.js.jsx",
+      "scope": "variable.other.constant.object.js, variable.other.constant.js.jsx, meta.tag.structure.select.start.html entity.name.tag, meta.tag.structure.select.end.html entity.name.tag, meta.tag.structure.textarea.start.html entity.name.tag, meta.tag.structure.textarea.end.html entity.name.tag, meta.tag.structure.input.void.html entity.name.tag",
       "settings": {
-        "foreground": "#c3cbfa"        
+        "foreground": "#f1b476"        
       }
     },
     {
@@ -316,9 +316,7 @@
         "meta.tag.inline.em.start.html entity.name.tag",
         "meta.tag.inline.em.end.html entity.name.tag",
         "meta.tag.inline.mark.start.html entity.name.tag",
-        "meta.tag.inline.mark.end.html entity.name.tag",
-        "meta.tag.structure.select.start.html entity.name.tag",
-        "meta.tag.structure.select.end.html entity.name.tag",
+        "meta.tag.inline.mark.end.html entity.name.tag",        
         "meta.tag.inline.a.start.html entity.name.tag",
         "meta.tag.inline.a.end.html entity.name.tag",
         "meta.tag.structure.button.start.html entity.name.tag",
@@ -375,7 +373,7 @@
         "meta.tag.metadata.doctype.html entity.name.tag"
       ],
       "settings": {
-        "foreground": "#6d8eaf"
+        "foreground": "#81a2c3"
       }
     },
     {
@@ -533,7 +531,7 @@
     "editorInfo.foreground": "#75beff",
     "editorInfo.background": "#4490BF00",
     "editorInfo.border": "#4490BF00",
-    "editorGutter.background": "#1a2128",
+    "editorGutter.background": "#1f272f",
     "editorGutter.modifiedBackground": "#0c7d9d",
     "editorGutter.addedBackground": "#587c0c",
     "editorGutter.deletedBackground": "#94151b",
